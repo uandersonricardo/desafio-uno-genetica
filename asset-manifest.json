@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-uno-genetica/static/css/main.43f4d005.css",
+    "main.js": "/desafio-uno-genetica/static/js/main.11266ba9.js",
+    "index.html": "/desafio-uno-genetica/index.html",
+    "main.43f4d005.css.map": "/desafio-uno-genetica/static/css/main.43f4d005.css.map",
+    "main.11266ba9.js.map": "/desafio-uno-genetica/static/js/main.11266ba9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43f4d005.css",
+    "static/js/main.11266ba9.js"
+  ]
+}
