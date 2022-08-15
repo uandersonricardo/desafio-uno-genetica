@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css?family=Inter:regular,bold,black&subset=latin,latin-ext');
+
+@keyframes move {
+    50% {
+      transform: translateX(50vw) translateY(-50%);
+    }
+    50.001% {
+      transform: translateX(-140vw) translateY(-50%);
+    }
+}
